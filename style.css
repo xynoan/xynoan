@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/* UTILITIES */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #40434E;
+   }
+   a {
+    text-decoration: none;
+   }
+   li {
+    list-style: none;
+   }
+/* NAVBAR STYLING STARTS */
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    background-color: #080705;
+    color: #fff;
+    position: fixed;
+   }
+   .nav-links a {
+    color: #fff;
+   }
+/* NAVBAR MENU */
+   .menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+   }
+   .menu li:hover {
+    background-color: #777;
+    border-radius: 5px;
+    transition: 0.3s ease;
+   }
+   .menu li {
+    padding: 5px 14px;
+   }
+/*RESPONSIVE NAVBAR MENU STARTS*/
+/* CHECKBOX HACK */
+input[type=checkbox]{
+    display: none;
+   } 
+/*HAMBURGER MENU*/
+   .hamburger {
+    display: none;
+    font-size: 24px;
+    user-select: none;
+   }
+/* main styling */
+/* about section */
+h1{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}
+div.nath {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 80px 0px;
+}
+div.nath div{
+    display: flex;
+    flex-direction: column;
+    margin: 200px 0px;
+}
+div.nath img {
+    width: 30%;
+    margin: 0px 60px;
+}
+div.nath h1 span {
+    color: #7f7fff;
+}
+div.nath p{
+    color: #7f7fff;
+    font-size: 30px;
+    text-align: center;
+}
+/* projects section */
+h2{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}
+section#welcome-section {
+    height: 100vh;
+}
+div.proyekto {
+    background-color: #702632;
+    height: 470px;
+}
+div.proyekto h2{
+    padding: 35px 0px;
+}
+div.mga_proyekto {
+    display: flex;
+    justify-content: space-around;
+}
+div.mga_proyekto a {
+    color: #fff;
+    font-size: 20px;
+}
+div.survey {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    border: 2px solid #777;
+    background-color: #080705;
+}
+div.survey img {
+    width: 100%;
+}
+div.survey a {
+    text-align: center;
+}
+div.tribute {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    border: 2px solid #777;
+    background-color: #080705;
+}
+div.tribute img {
+    width: 100%;
+}
+div.tribute a {
+    text-align: center;
+}
+div.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    border: 2px solid #777;
+    background-color: #080705;
+}
+div.product img {
+    width: 100%;
+}
+div.product a{
+    text-align: center;
+}
+div.tdp {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 2px solid #777;
+    background-color: #080705;
+}
+div.tdp img {
+    width: 100%;
+}
+div.tdp a {
+    text-align: center;
+}
+/* contacts section */
+div.contacts {
+    background-color: #E7D7C1;
+}
+div.contacts h2{
+    color: #000000;
+    padding: 35px 0px;
+}
+div.socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 35px;
+    text-align: center;
+}
+div.socials img{
+    width: 30%;
+}
+div.facebook {
+    width: 100%;
+}
+
+/* APPLYING MEDIA QUERIES */
+@media (max-width: 768px) {
+   .menu { 
+    display:none;
+    position: absolute;
+    background-color:#080705;
+    left: 0;
+    text-align: center;
+    padding: 16px 0px;
+   }
+   .menu li:hover {
+    display: inline-block;
+    background-color:#777;
+    transition: 0.3s ease;
+   }
+   .menu li + li {
+    margin-top: 12px;
+   }
+   input[type=checkbox]:checked ~ .menu{
+    display: block;
+   }
+   .hamburger {
+    display: block;
+   }
+   div.nath {
+    display: flex;
+    flex-direction: column;
+   }
+   div.nath div {
+       margin: 12px 0px;
+   }
+   div.nath img {
+       margin: 20px 70px;
+       width: 70%;
+   }
+   div.nath div h1{
+       font-size: 25px;
+   }
+   div.proyekto {
+       height: 1130px;
+   }
+   div.mga_proyekto {
+       display: flex;
+       flex-direction: column;
+       width: 80%;
+       justify-content: center;
+       align-items: center;
+       margin: 0px 30px;
+   }
+   div.socials {
+       display: flex;
+       flex-direction: column;
+   }
+   div.facebook {
+       width: 50%;
+   }
+}
