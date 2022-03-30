@@ -23,6 +23,9 @@
     background-color: #080705;
     color: #fff;
     position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
    }
    .nav-links a {
     color: #fff;
@@ -189,27 +192,28 @@ div.facebook {
 
 /* APPLYING MEDIA QUERIES */
 @media (max-width: 768px) {
-   .menu { 
-    display:none;
-    position: absolute;
-    background-color:#080705;
-    left: 0;
-    text-align: center;
-    padding: 16px 0px;
-   }
-   .menu li:hover {
-    display: inline-block;
-    background-color:#777;
-    transition: 0.3s ease;
-   }
-   .menu li + li {
-    margin-top: 12px;
-   }
-   input[type=checkbox]:checked ~ .menu{
-    display: block;
-   }
-   .hamburger {
-    display: block;
+    .menu { 
+        display:none;
+        position: absolute;
+        background-color:#080705;
+        right: 0;
+        left: 0;
+        text-align: center;
+        padding: 16px 0;
+       }
+       .menu li:hover {
+        display: inline-block;
+        background-color:#4c9e9e;
+        transition: 0.3s ease;
+       }
+       .menu li + li {
+        margin-top: 12px;
+       }
+       input[type=checkbox]:checked ~ .menu{
+        display: block;
+       }
+       .hamburger {
+        display: block;
    }
    div.nath {
     display: flex;
