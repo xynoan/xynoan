@@ -47,7 +47,7 @@ i {
 }
 
 a {
-  color: #fff;
+  color: #2196f3;
   text-decoration: none;
   position: relative;
 }
@@ -85,7 +85,7 @@ img.frameworks {
 
 a::before {
   content: "";
-  background-color: crimson;
+  background-color: #000; 
   position: absolute;
   left: 0;
   bottom: 3px;
