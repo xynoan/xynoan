@@ -40,12 +40,6 @@ section {
   text-align: center;
 }
 
-i {
-  margin: 5px 10px;
-  font-size: 70px;
-  transition: all 0.2s ease-in-out;
-}
-
 a {
   color: #2196f3;
   text-decoration: none;
@@ -55,32 +49,6 @@ a {
 footer {
   color: #fff;
   margin: 15px 0;
-}
-
-img.frameworks {
-  width: 8%;
-}
-
-.hover13 figure:hover img {
-  opacity: 1;
-  -webkit-animation: flash 1.5s;
-  animation: flash 1.5s;
-}
-@-webkit-keyframes flash {
-  0% {
-    opacity: 0.4;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes flash {
-  0% {
-    opacity: 0.4;
-  }
-  100% {
-    opacity: 1;
-  }
 }
 
 a::before {
@@ -100,26 +68,6 @@ a:hover::before {
   height: 100%;
 }
 
-i:hover {
-  transform: scale(1.2);
-}
-
-i.fa-html5 {
-  color: #ffa726;
-}
-
-i.fa-css3-alt {
-  color: #2196f3;
-}
-i.fa-js {
-  color: yellow;
-}
-i.fa-java {
-  color: crimson;
-}
-i.fa-python {
-  color: #2196f3;
-}
 header span {
   color: #2196f3;
 }
