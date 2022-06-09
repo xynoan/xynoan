@@ -38,6 +38,10 @@ section {
   margin: 25px 0;
   width: 90%;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 section.skills {
@@ -54,7 +58,7 @@ a {
   position: relative;
 }
 
-p.skills-paragraph {
+p.skills-paragraph, p.status {
   width: 50%;
 }
 
@@ -104,7 +108,7 @@ section p {
 }
 
 @media (max-width: 1064px) {
-  p.skills-paragraph {
+  p.skills-paragraph, p.status {
     width: 100%;
   }
 }
