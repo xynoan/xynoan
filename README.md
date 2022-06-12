@@ -5,7 +5,7 @@ Recalling science and numerical ability 'til **June 15, 2022** for my entrance e
 ## Skills:
 I mainly focus **JavaScript**, at the moment. Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
 ## Challenges:
-[freeCodeCamp Challenge](/fCCchallenge/index.html)
+[freeCodeCamp Challenge](/fCCchallenge.md)
 <br>
 
-[CodeWars](/CWchallenge/index.html)
+[CodeWars](/CWchallenge.md)
