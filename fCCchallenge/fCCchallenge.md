@@ -1,0 +1,56 @@
+# freeCodeCamp Challenge
+March 2022 - Present • 3 mos
+<hr> 
+
+![freeCodeCamp Logo](https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg)
+## Prologue:
+Before 18, I had all the time to slack off. Just watching anime, playing games, literally. I have done all unproductive activities you can imagine. Just kidding, it's a hyperbole, but I'm sure you
+got the idea.
+<br>
+This year (2022), I'm graduating senior high school. Applying to college has been really tough. My
+grades are not that good since I don't really like school. And most of colleges have high standards
+with regards to that.
+<br>
+In other words, as of right now, 2022, my future is blurry. Just like what they say, you only
+realize it when it's too late.<br>
+But.. I don't think it's too late, though. As long as you don't lose hope.
+<br>
+I remember solving rubiks cube in the past, and it has a relevance when it comes to algorithms.
+<br>
+So.. Why not, try programming? I have been self-studying web development even before COVID, to be honest. But I wasn't motivated in investing most of my time on it.
+<br>
+But now, I do. Hence, I decided to do this challenge, for my future, and for myself.
+<br>
+Nothing will stop me now.
+
+## Responsive Web Design
+Oh my.. This was a really fun course. I'm not even joking. It was really fun and easy to understand it just took me 2 weeks to get the certification.
+<br>
+Ego aside, I'm far from good when it comes to designing websites, though.
+
+## JavaScript Algorithms and Data Structures
+This course was fun, but definitely not the same ride as RWD. 
+<br>
+
+_I struggled_.
+<br>
+
+I know myself enough that whenever [I open up something on the internet](https://forum.freecodecamp.org/t/javascript-entering-my-life/503141?u=xynoan), it means whatever it is that I'm doing is definitely not easy.<br>
+
+Not easy to understand, but _not impossible_.
+
+## Front End Development Libraries
+Almost all section went smoothly, but I skipped Redux. I didn't _like_ it. I got an information from a senior on the industry that it's rarely used, so that's enough information to not push myself.
+<br>
+
+All section but.. the projects section.
+<br>
+
+From here onwards the **Drum Machine Project**, I'm expecting to learn _a lot_ on the following projects.
+<br>
+
+Like how I struggled, got depressed, got anxious, got imposter syndrome, I never gave up and I finally got control of JavaScript. Let's do the same on this course.
+
+
+## Relevance: 
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
