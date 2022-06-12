@@ -1,3 +1,19 @@
-# Welcome to my Portfolio
+# Welcome to my profile
+<hr>
 
-In here, you will see my timeline in programming. What skills I currrently have, what am I currently doing, what challenges I have accomplished, what challenges I'm currently doing.
+My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer.
+## What am I currently up to:
+<hr>
+
+Studying science and numerical ability 'til **June 15, 2022** for my entrance exams for college.
+## Skills:
+<hr>
+
+I mainly focus **JavaScript**, at the moment. Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
+## Challenges:
+<hr>
+
+[freeCodeCamp Challenge](/fCCchallenge/index.html)
+<br>
+
+[CodeWars](/CWchallenge/index.html)
