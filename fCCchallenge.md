@@ -6,26 +6,26 @@ March 2022 - Present • 3 mos
 ## Prologue:
 Before 18, I had all the time to slack off. Just watching anime, playing games, literally. I have done all unproductive activities you can imagine. Just kidding, it's a hyperbole, but I'm sure you
 got the idea.
-<br>
+<br><br>
 This year (2022), I'm graduating senior high school. Applying to college has been really tough. My
 grades are not that good since I don't really like school. And most of colleges have high standards
 with regards to that.
-<br>
+<br><br>
 In other words, as of right now, 2022, my future is blurry. Just like what they say, you only
-realize it when it's too late.<br>
+realize it when it's too late.<br><br>
 But.. I don't think it's too late, though. As long as you don't lose hope.
-<br>
+<br><br>
 I remember solving rubiks cube in the past, and it has a relevance when it comes to algorithms.
-<br>
+<br><br>
 So.. Why not, try programming? I have been self-studying web development even before COVID, to be honest. But I wasn't motivated in investing most of my time on it.
-<br>
+<br><br>
 But now, I do. Hence, I decided to do this challenge, for my future, and for myself.
-<br>
+<br><br>
 Nothing will stop me now.
 
 ## Responsive Web Design
 Oh my.. This was a really fun course. I'm not even joking. It was really fun and easy to understand it just took me 2 weeks to get the certification.
-<br>
+<br><br>
 Ego aside, I'm far from good when it comes to designing websites, though.
 
 ## JavaScript Algorithms and Data Structures

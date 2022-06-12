@@ -7,9 +7,9 @@ April 2022 - Present • 2 mos
 I plan to use CodeWars for improving my logical thinking and algorithm skills on any certain coding language I choose.
 ## Status:
 JavaScript - 5 kyu
-<br>
+<br><br>
 Python - 8 kyu
-<br>
+<br><br>
 Java - 8 kyu
 
 ## Relevance: 
