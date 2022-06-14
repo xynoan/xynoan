@@ -51,6 +51,19 @@ From here onwards the **Drum Machine Project**, I'm expecting to learn _a lot_ o
 
 Like how I struggled, got depressed, got anxious, got imposter syndrome, I never gave up and I finally got control of JavaScript. Let's do the same on this course.
 
+## Data Visualization
+I learned the basics of turning data to visuals but I'll do the projects later.
+
+## Back End Development and APIs
+Back End is so boring but I understand why it's so important. Kinda disappointing their Mongo section doesn't really teach anything. Their solutions don't even work. I'll go straight to the projects here because I already finished lessons about NPM, Node, and Express. I'll figure out how to work with Mongo myself throughout the projects. Still, very disappointing, freeCodeCamp.
+
+## Quality Assurance
+Hopefully all the sections here are working fine. I'll go to this course after the projects in **Data Visualization** and **Back End Development and APIs**.
+
+## Epilogue
+So far, I learned _a lot_, really. I will 100% do more challenge like this but not so soon. I plan on documenting all the **30 projects** I've done in this website. Thank you, freeCodeCamp!
 
 ## Relevance: 
 [freeCodeCamp](https://www.freecodecamp.org/learn/)
+
+
