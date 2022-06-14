@@ -55,7 +55,7 @@ Like how I struggled, got depressed, got anxious, got imposter syndrome, I never
 I learned the basics of turning data to visuals but I'll do the projects later.
 
 ## Back End Development and APIs
-Back End is so boring but I understand why it's so important. Kinda disappointing their Mongo section doesn't really teach anything. Their solutions don't even work. I'll go straight to the projects here because I already finished lessons about NPM, Node, and Express. I'll figure out how to work with Mongo myself throughout the projects. Still, very disappointing, freeCodeCamp.
+It was a really fun course. Just got stuck a little bit on the Mongo section because of lack of knowledge on downgrading packages. There was a challenge that requires a method that was already deprecated on the latest version of Mongoose.
 
 ## Quality Assurance
 Hopefully all the sections here are working fine. I'll go to this course after the projects in **Data Visualization** and **Back End Development and APIs**.
