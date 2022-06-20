@@ -52,7 +52,7 @@ From here onwards the **Drum Machine Project**, I'm expecting to learn _a lot_ o
 Like how I struggled, got depressed, got anxious, got imposter syndrome, I never gave up and I finally got control of JavaScript. Let's do the same on this course.
 
 ## Data Visualization
-I learned the basics of turning data to visuals but I'll do the projects later.
+This was a really fun course! That's all I can say. <3
 
 ## Back End Development and APIs
 It was a really fun course. Just got stuck a little bit on the Mongo section because of lack of knowledge on downgrading packages. There was a challenge that requires a method that was already deprecated on the latest version of Mongoose.
