@@ -1,5 +1,5 @@
 # Welcome to my profile
-My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer.
+My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer, Collector.
 ## What am I currently up to:
 Attempting to finish the **Data Visualization Projects** before **July 12, 2022** (Results of the entrance exam).
 ## Bugs I have yet to fix:
