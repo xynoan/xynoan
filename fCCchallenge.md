@@ -52,10 +52,18 @@ From here onwards the **Drum Machine Project**, I'm expecting to learn _a lot_ o
 Like how I struggled, got depressed, got anxious, got imposter syndrome, I never gave up and I finally got control of JavaScript. Let's do the same on this course.
 
 ## Data Visualization
-This was a really fun course! That's all I can say. <3
+I'm gonna be honest. I was not so excited getting into this more than I was excited getting to the server-side (backend).
+
+The lectures are decent, but the required projects... They didn't teach most of the knowledge we needed to accomplish those. But I still got through it so.. that's that, lol. Well, barely.
+
+One thing for sure, I got the grasp of fetching API's... So that's really good.
 
 ## Back End Development and APIs
-It was a really fun course. Just got stuck a little bit on the Mongo section because of lack of knowledge on downgrading packages. There was a challenge that requires a method that was already deprecated on the latest version of Mongoose.
+New knowledge, new knowledge... It's so annoying when you're doing a challenge and no idea (at all) is coming to mind. It felt like I was learning JavaScript again (lol).
+
+After getting through the lectures section, specially Mongoose, there was a challenge that required a method that was already deprecated from the latest version and I lacked knowledge on downgrading a package, so that's that.
+
+The projects were sooooooooooooo fun! I love solving these!
 
 ## Quality Assurance
 Hopefully all the sections here are working fine. I'll go to this course after the projects in **Data Visualization** and **Back End Development and APIs**.
