@@ -8,6 +8,8 @@ Attempting to finish the **Quality Assurance curriculum** before **July 12, 2022
 I mainly focus **JavaScript**, at the moment. Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
+<br>
+
 [replit](https://replit.com/@xynoan)
 ## Challenges:
 [freeCodeCamp Challenge](/fCCchallenge.md)
