@@ -1,5 +1,5 @@
 # CodeWars
-April 2022 - Present • 2 mos
+April 2022 - Present • 3 mos
 <hr> 
 
 ![CodeWars Logo](https://docs.codewars.com/logo.svg)

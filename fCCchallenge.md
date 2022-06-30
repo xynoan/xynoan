@@ -1,5 +1,5 @@
 # freeCodeCamp Challenge
-March 2022 - Present • 3 mos
+March 2022 - July 2022 • 4 mos
 <hr> 
 
 ![freeCodeCamp Logo](https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg)
@@ -66,10 +66,10 @@ After getting through the lectures section, specially Mongoose, there was a chal
 The projects were sooooooooooooo fun! I love solving these!
 
 ## Quality Assurance
-Hopefully all the sections here are working fine. I'll go to this course after the projects in **Data Visualization** and **Back End Development and APIs**.
+...
 
 ## Epilogue
-So far, I learned _a lot_, really. I will 100% do more challenge like this but not so soon. I plan on documenting all the **30 projects** I've done in this website. Thank you, freeCodeCamp!
+...
 
 ## Relevance: 
 [freeCodeCamp](https://www.freecodecamp.org/learn/)
