@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer, Collector.
 ## What am I currently up to:
-Attempting to finish the **Quality Assurance Projects** before **July 12, 2022** (Results of the entrance exam).
+Building a full stack website: Metric-Imperial Converter. I aim to finish this until July 2, 2022.
 ## Bugs I have yet to fix:
 (Nothing for now...)
 ## Skills:
