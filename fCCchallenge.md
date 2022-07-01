@@ -68,19 +68,19 @@ The projects were sooooooooooooo fun! I love solving these!
 ## Quality Assurance
 ...
 
-### Scientific Computing with Python
+## Scientific Computing with Python
 ...
 
-### Data Analysis with Python
+## Data Analysis with Python
 ...
 
-### Information Security
+## Information Security
 ...
 
-### Machine Learning with Python
+## Machine Learning with Python
 ...
 
-### Relational Database
+## Relational Database
 ...
 
 ## Epilogue
