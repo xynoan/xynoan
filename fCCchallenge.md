@@ -1,5 +1,5 @@
 # freeCodeCamp Challenge
-March 2022 - Present • 4 mos
+March 2022 - July 2022 • 4 mos
 <hr> 
 
 ![freeCodeCamp Logo](https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg)
@@ -66,25 +66,12 @@ After getting through the lectures section, specially Mongoose, there was a chal
 The projects were sooooooooooooo fun! I love solving these!
 
 ## Quality Assurance
-...
+Going through the testing library section was a breeze, going through Advanced Node and Express, I learned nothing if I didn't watch how Florin Pop go through that section. The explanations were vague, the errors were vage.
 
-## Scientific Computing with Python
-...
-
-## Data Analysis with Python
-...
-
-## Information Security
-...
-
-## Machine Learning with Python
-...
-
-## Relational Database
-...
+The projects, however, I was not able to complete. Unfortunately, I was hit by something that made me very unmotivated to continue for some reason.
 
 ## Epilogue
-...
+I learned a lot. Really. 4 months was a breeze and I got nothing to do in those months, so I appreciate freeCodeCamp for being there. I'm not sure if I'm gonna do something like this again (I figured I still don't understand the way I decide stuff), but it was definitely a fun ride and the lessons will benefit me for a lifetime. I'm planning to focus on solving katas in CodeWars for fun to keep my brain busy, somehow.
 
 ## Relevance: 
 [freeCodeCamp](https://www.freecodecamp.org/learn/)
