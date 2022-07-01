@@ -5,7 +5,7 @@ Attempting to finish the **Quality Assurance Projects** before **July 12, 2022**
 ## Bugs I have yet to fix:
 (Nothing for now...)
 ## Skills:
-I mainly focus **JavaScript**, at the moment. Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
+I mainly focus **Python**, at the moment. Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
 <br>
