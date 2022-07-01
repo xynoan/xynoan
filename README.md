@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer, Collector.
 ## What am I currently up to:
-Attempting to finish the **Quality Assurance curriculum** before **July 12, 2022** (Results of the entrance exam).
+Attempting to finish the **Quality Assurance Projects** before **July 12, 2022** (Results of the entrance exam).
 ## Bugs I have yet to fix:
 (Nothing for now...)
 ## Skills:
@@ -16,6 +16,3 @@ I mainly focus **JavaScript**, at the moment. Git, Github, HTML, CSS (Materializ
 <br>
 
 [CodeWars](/CWchallenge.md)
-<br>
-
-[100 Days CSS Challenge](/100DaysCSSchallenge.md)
