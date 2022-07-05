@@ -1,5 +1,5 @@
 # Welcome to my profile
-My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer, Collector.
+My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer.
 ## What am I currently up to:
 Solving katas in CodeWars for fun.
 ## Skills:
