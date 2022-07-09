@@ -6,9 +6,10 @@ Solving katas in CodeWars for fun.
 Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
-<br>
-
 [replit](https://replit.com/@xynoan)
+## Socials:
+[fCC Forum](https://forum.freecodecamp.org/u/xynoan/summary)
+[Facebook](https://www.facebook.com/morvss)
 ## Challenges:
 [freeCodeCamp Challenge](/fCCchallenge.md)
 <br>
