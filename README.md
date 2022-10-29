@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer.
 ## What am I currently up to:
 Focusing on college.
 ## Skills:
-Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), Java, Python.
+Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN, jQuery, D3), php (Laravel), MySQL, Java, Python.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
 [replit](https://replit.com/@xynoan)
