@@ -8,7 +8,7 @@ August 2022 - Present • 4 mos
 #### Midterms
 The lectures were too slow for me so I added going to gym as a part of my routine.
 #### Finals
-I learned php.
+I have learned php.
 ### 2nd Sem
 #### Midterms
 ...
