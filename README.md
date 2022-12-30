@@ -1,5 +1,5 @@
 # Welcome to my profile
-My name is **xynoan**, I'm a Developer, Gamer, Reader, Streamer.
+My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephilia.
 ## What am I currently up to:
 Focusing on college.
 ## Skills:
