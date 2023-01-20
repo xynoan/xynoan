@@ -11,7 +11,7 @@ The lectures were too slow for me so I added going to gym as a part of my routin
 I have learned php.
 ### 2nd Sem
 #### Midterms
-...
+We went further in the Java programming language.
 #### Finals
 ...
 ## 2nd Year
