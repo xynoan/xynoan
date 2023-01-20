@@ -11,9 +11,9 @@ The lectures were too slow for me so I added going to gym as a part of my routin
 I have learned php.
 ### 2nd Sem
 #### Midterms
-We went further in the Java programming language.
+We learned about JavaFX.
 #### Finals
-...
+We learned how to connect Java to a database.
 ## 2nd Year
 ### 1st Sem
 #### Midterms
