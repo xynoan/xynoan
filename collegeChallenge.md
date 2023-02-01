@@ -13,7 +13,7 @@ I have learned php.
 #### Midterms
 I learned connecting Java to MySQL, and use JFrame as the GUI.
 #### Finals
-We learned how to connect Java to a database.
+...
 ## 2nd Year
 ### 1st Sem
 #### Midterms
