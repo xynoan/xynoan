@@ -11,7 +11,7 @@ The lectures were too slow for me so I added going to gym as a part of my routin
 I have learned php.
 ### 2nd Sem
 #### Midterms
-I learned connecting Java to MySQL, and use JFrame as the GUI.
+I learned connecting Java to MySQL, and use JFrame as the GUI. I joined an organization for experience.
 #### Finals
 ...
 ## 2nd Year
