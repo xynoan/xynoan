@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
-Focusing on college.
+Focusing on college/Self-studying chess in free time.
 ## Skills:
 Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (Express, React, Node, jQuery, D3), php, Java, Python.
 ## Projects: 
