@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
-Focusing on college
+Focusing on college.
 <br>
 Self-studying chess in free time.
 ## Skills:
