@@ -13,7 +13,7 @@ I have learned php.
 #### Midterms
 I learned connecting Java to MySQL, and use JFrame as the GUI. I joined an organization for experience.
 #### Finals
-...
+College is starting to get a little too easy for me.. I rely on my own bot (xyReviewer) for the lectures. I do activities ASAP so they don't pile up, I take care of my mental health. Currently, I'm playing video games to pass the time.
 ## 2nd Year
 ### 1st Sem
 #### Midterms
