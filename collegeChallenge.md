@@ -1,5 +1,5 @@
 # College
-August 2022 - March 2023 • 8 mos
+August 2022 - April 2023 • 8 mos
 <hr> 
 
 ![school logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xgfz5w23trmhp7veqakd)
