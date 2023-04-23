@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
-Reach Gold in League of Legends before April ends.
+Going with the flow.
 ## Skills:
 Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (Express, React, Node, jQuery, D3), php, Java, Python.
 ## Projects: 
