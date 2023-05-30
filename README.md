@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
 Developing Cafe Ordering System.
 ## Skills:
-HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN), Java, Python.
+HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
 ## Tools:
 Git, Github, XAMPP, VS Code, Netbeans.
 ## Projects: 
