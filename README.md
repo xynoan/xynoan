@@ -3,7 +3,9 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
 Developing Cafe Ordering System.
 ## Skills:
-Git, Github, HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (Express, React, Node, jQuery, D3), php, Java, Python.
+HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN), Java, Python.
+## Tools:
+Git, Github, XAMPP, VS Code, Netbeans.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
 [replit](https://replit.com/@xynoan)
