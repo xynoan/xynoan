@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
-Developing Cafe Ordering System.
+Doing things based on mood.
 ## Skills:
 HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
 ## Tools:
