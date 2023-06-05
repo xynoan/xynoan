@@ -7,7 +7,8 @@ May 2023 - June 2023 • 1 mo
 I wanted to take advantage of my vacation and not slack off so...
 
 ## Java Programming I
-This was extremely fun! I learned a lot from it!
+`Arrays` - for `Array`. <br />
+`Collections` - for `ArrayList`.
 
 ## Java Programming II
 ...
