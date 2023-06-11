@@ -12,7 +12,11 @@ Resources: <br />
 [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) <br />
 [Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html) <br />
 [Arrays](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html) <br />
-[Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html) <br />
-[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
+[Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)
 ## Java Programming II
-...
+Resources: <br />
+[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) <br />
+[Map](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html) <br />
+[Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html) <br />
+[Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
