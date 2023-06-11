@@ -19,4 +19,5 @@ Resources: <br />
 [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) <br />
 [Map](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html) <br />
 [Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html) <br />
-[Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
+[Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) <br />
+[HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html)
