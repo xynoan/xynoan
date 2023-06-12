@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What am I currently up to:
 Doing things based on mood.
 ## Skills:
-HTML, CSS (Materialize, Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
+HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
 ## Tools:
 Git, Github, XAMPP, VS Code, Netbeans.
 ## Projects: 
