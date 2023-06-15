@@ -22,4 +22,6 @@ Resources: <br />
 [Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) <br />
 [HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
-[Collectors](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html)
+[Collectors](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html) <br />
+[Files](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html) <br />
+[Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html)
