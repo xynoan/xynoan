@@ -24,4 +24,5 @@ Resources: <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
 [Collectors](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html) <br />
 [Files](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html) <br />
-[Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html)
+[Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html) <br />
+[Comparable](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)
