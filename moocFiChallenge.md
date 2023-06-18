@@ -26,4 +26,5 @@ Resources: <br />
 [Files](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html) <br />
 [Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html) <br />
 [Comparable](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html) <br />
-[Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
+[Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html) <br />
+[StringBuilder](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html)
