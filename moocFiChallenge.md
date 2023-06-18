@@ -28,4 +28,5 @@ Resources: <br />
 [Comparable](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html) <br />
 [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html) <br />
 [StringBuilder](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html) <br />
-[Enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+[Enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html) <br />
+[Iterator](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html)
