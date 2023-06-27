@@ -14,13 +14,14 @@ Resources: <br />
 [Arrays](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html) <br />
 [Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)
 ## Java Programming II
-Resources: <br />
-[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
+### Interfaces
 [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) <br />
 [Map](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html) <br />
 [Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html) <br />
 [Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) <br />
 [HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) <br />
+### Others
+[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
 [Collectors](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html) <br />
 [Files](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html) <br />
@@ -29,4 +30,5 @@ Resources: <br />
 [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html) <br />
 [StringBuilder](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html) <br />
 [Enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html) <br />
-[Iterator](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html)
+[Iterator](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html) <br />
+[Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
