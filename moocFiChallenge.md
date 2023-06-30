@@ -25,6 +25,9 @@ Resources: <br />
 [Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html) <br />
 [PrintWriter](https://docs.oracle.com/javase/8/docs/api/java/io/PrintWriter.html) <br />
 [FileWriter](https://docs.oracle.com/javase/8/docs/api/java/io/FileWriter.html)
+### GUI
+[Application](https://docs.oracle.com/javase/8/javafx/api/javafx/application/Application.html) <br />
+[Stage](https://docs.oracle.com/javase/8/javafx/api/javafx/stage/Stage.html)
 ### Others
 [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
