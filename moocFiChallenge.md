@@ -26,9 +26,18 @@ Resources: <br />
 [PrintWriter](https://docs.oracle.com/javase/8/docs/api/java/io/PrintWriter.html) <br />
 [FileWriter](https://docs.oracle.com/javase/8/docs/api/java/io/FileWriter.html)
 ### GUI
+[JavaFX](https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/) <br />
 [Application](https://docs.oracle.com/javase/8/javafx/api/javafx/application/Application.html) <br />
 [Stage](https://docs.oracle.com/javase/8/javafx/api/javafx/stage/Stage.html) <br />
-[Scene](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/Scene.html)
+[Scene](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/Scene.html) <br />
+[Label](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Label.html) <br />
+[Button](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Button.html) <br />
+[TextField](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) <br />
+[FlowPane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/FlowPane.html) <br />
+[BorderPane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/BorderPane.html) <br />
+[HBox](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/HBox.html) <br />
+[VBox](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/VBox.html) <br />
+[GridPane](https://docs.oracle.com/javafx/2/api/javafx/scene/layout/GridPane.html)
 ### Others
 [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
