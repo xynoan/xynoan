@@ -1,5 +1,5 @@
 # MOOC.fi Challenge
-May 2023 - June 2023 • 1 mo
+May 2023 - July 2023 • 2 mos
 <hr> 
 
 ![MOOC.fi logo](https://www.mooc.fi/_next/static/media/moocfi.029e0aab.svg)
