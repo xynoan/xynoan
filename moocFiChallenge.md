@@ -45,7 +45,9 @@ Resources: <br />
 [ChangeListener](https://docs.oracle.com/javafx/2/api/javafx/beans/value/ChangeListener.html)
 ### [Charts](https://docs.oracle.com/javafx/2/api/javafx/scene/chart/package-summary.html)
 [Guide](https://docs.oracle.com/javafx/2/charts/jfxpub-charts.htm) <br />
-[NumberAxis](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/chart/NumberAxis.html)
+[NumberAxis](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/chart/NumberAxis.html) <br />
+[BarChart](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/chart/BarChart.html) <br />
+[CategoryAxis](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/chart/CategoryAxis.html)
 ### Others
 [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) <br />
 [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html) <br />
