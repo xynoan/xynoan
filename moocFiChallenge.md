@@ -52,3 +52,7 @@ Resources: <br />
 [Enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html) <br />
 [Iterator](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html) <br />
 [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
+## Epilogue
+During this course, I realized something really big. I've been stuck in tutorial hell. I should be focused on doing projects and doing research on my own. I mean, I have a discord bot named Attack On Titan Bot and I developed it with the help of only research, no tutorial whatsoever. And that's a personal project. <br />
+
+I have to promise myself, after this course, I will no longer dive in to tutorials. I will do everything on my own - research, youtube. NO MORE COURSES.
