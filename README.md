@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To finish [MOOC.fi Challenge](/moocFiChallenge.md) before vacation ends.
+To do as much web development before vacation ends.
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
 ## Tools:
