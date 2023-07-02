@@ -19,7 +19,7 @@ Git, Github, XAMPP, VS Code, Netbeans.
 [CodeWars](/CWchallenge.md)
 <br>
 
-[College](/collegeChallenge.md)
+[MOOC.fi Challenge](/moocFiChallenge.md)
 <br>
 
-[MOOC.fi Challenge](/moocFiChallenge.md)
+[College](/collegeChallenge.md)
