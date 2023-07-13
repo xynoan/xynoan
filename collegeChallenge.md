@@ -17,38 +17,4 @@ I learned connecting Java to MySQL, and use JFrame as the GUI. I joined an organ
 #### Finals
 College is starting to get a little too easy for me.. I rely on my own bot (xyReviewer) for the lectures. I do activities ASAP so they don't pile up, I take care of my mental health. Currently, I'm playing video games to pass the time.
 ## Epilogue
-Unfortunately, something went wrong around 2nd sem in midterms, 1st Year. I don't blame anyone but I failed the challenge because I trusted a wrong leader. Nonetheless, it was an awesome experience for 11 months!
-<!-- ## 2nd Year
-### 1st Sem
-#### Midterms
-...
-#### Finals
-...
-### 2nd Sem
-#### Midterms
-...
-#### Finals
-...
-## 3rd Year
-### 1st Sem
-#### Midterms
-...
-#### Finals
-...
-### 2nd Sem
-#### Midterms
-...
-#### Finals
-...
-## 4th Year
-### 1st Sem
-#### Midterms
-...
-#### Finals
-...
-### 2nd Sem
-#### Midterms
-...
-#### Finals
-...
- -->
+Apparently, what I do doesn't reflect my grades. So this is not worth my time.
