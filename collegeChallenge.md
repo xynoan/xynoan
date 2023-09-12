@@ -19,7 +19,7 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 ## 2nd Year
 ### 1st Sem
 #### Midterms
-I resigned on my organization. Sure, there's a lot of benefits but I don't learn anything.
+~~I resigned on my organization. Sure, there's a lot of benefits but I don't learn anything.~~ My resignation letter is rejected.
 #### Finals
 ...
 ### 2nd Sem
