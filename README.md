@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
 To study C
 ## Skills:
-HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
+HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C.
 ## Tools:
 Git, Github, XAMPP, VS Code, Netbeans.
 ## Projects: 
