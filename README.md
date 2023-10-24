@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To enter the harsh world.
+To study C
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python.
 ## Tools:
