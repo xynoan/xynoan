@@ -21,7 +21,7 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 #### Midterms
 ~~I resigned on my organization. Sure, there's a lot of benefits but I don't learn anything.~~ My resignation letter is rejected. I'm re-declaring my mindset in this org, instead for learning, I'll stay for the network.
 #### Finals
-...
+I self-studied C, C++, and Python.
 ### 2nd Sem
 #### Midterms
 ...
