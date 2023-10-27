@@ -24,7 +24,7 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 I self-studied C, C++, and Python.
 ### 2nd Sem
 #### Midterms
-I enlisted as an ROTC Officer. I plan to pursue this path aside from IT
+I enlisted as an ROTC Officer. I plan to pursue this path aside from IT.
 #### Finals
 ...
 ## Epilogue
