@@ -1,9 +1,9 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To study C
+To study C++, finish reading Pragmatic Programmer, and use Neovim for a month.
 ## Skills:
-HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C.
+HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
 ## Tools:
 Git, Github, XAMPP, VS Code, Netbeans.
 ## Projects: 
