@@ -1,11 +1,11 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To study C++, use Neovim for a month.
+To study C++.
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
 ## Tools:
-Git, Github, XAMPP, VS Code, Netbeans.
+Git, Github, XAMPP, Neovim, Netbeans.
 ## Projects: 
 [codepen](https://codepen.io/xynoan)
 [replit](https://replit.com/@xynoan)
