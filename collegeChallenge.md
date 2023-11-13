@@ -17,10 +17,11 @@ I learned connecting Java to MySQL, and use JFrame as the GUI. I joined an organ
 #### Finals
 College is starting to get a little too easy for me.. I rely on my own bot (xyReviewer) for the lectures. I do activities ASAP so they don't pile up, I take care of my mental health. Currently, I'm playing video games to pass the time.
 ## 2nd Year
-### 1st Sem
-I self-studied C/C++, and Python. Also, re-study JavaScript for the third time then do TypeScript (maybe).
+### 1st Sem
+I self-studied C/C++
 ### 2nd Sem
 #### Midterms
 ...
 #### Finals
-...
+...
+
