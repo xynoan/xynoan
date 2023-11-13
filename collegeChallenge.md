@@ -4,7 +4,7 @@ August 2022 - Present • 1 yr 3 mos
 
 ![school logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xgfz5w23trmhp7veqakd)
 ## Prologue
-Welcome to my college journal. Here, you will see all the stuff I did durimg college.
+Welcome to my college journal. Here, you will see all the stuff I did during college.
 ## 1st Year
 ### 1st Sem
 #### Midterms
