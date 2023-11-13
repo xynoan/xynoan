@@ -1,5 +1,5 @@
 # College
-August 2022 - Present • 1 yr 2 mos
+August 2022 - Present • 1 yr 3 mos
 <hr> 
 
 ![school logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xgfz5w23trmhp7veqakd)
