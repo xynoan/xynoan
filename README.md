@@ -9,6 +9,7 @@ Pending tasks:
 - To re-study Python
 - To study Rust
 - To finish reading pragmatic programmer
+- To build an Interpreter in C.
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
 ## Tools:
