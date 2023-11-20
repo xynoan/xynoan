@@ -8,6 +8,7 @@ Pending tasks:
 - To re-study Discord.js
 - To re-study Python
 - To study Rust
+- To finish reading pragmatic programmer
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
 ## Tools:
