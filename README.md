@@ -1,15 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To study C++ and NvChad
-
-Pending tasks:
-- To re-study JavaScript
-- To re-study Discord.js
-- To re-study Python
-- To study Rust
-- To finish reading pragmatic programmer
-- To build an Interpreter in C.
+To study C++
 ## Skillset:
 Java, C/C++, JavaScript, Python.
 ### Database:
