@@ -2,6 +2,12 @@
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
 To study C++ and NvChad
+
+Pending tasks:
+- To re-study JavaScript
+- To re-study Discord.js
+- To re-study Python
+- To study Rust
 ## Skills:
 HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
 ## Tools:
