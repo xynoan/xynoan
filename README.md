@@ -10,8 +10,10 @@ Pending tasks:
 - To study Rust
 - To finish reading pragmatic programmer
 - To build an Interpreter in C.
-## Skills:
-HTML, CSS (Bootstrap, Sass), JavaScript (MERN), Java (MySQL), Python, C/C++.
+## Skillset:
+Java, C/C++, JavaScript, Python.
+### Database:
+MySQL
 ## Tools:
 Git, Github, XAMPP, Neovim, Netbeans.
 ## Projects: 
