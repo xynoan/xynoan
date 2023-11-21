@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To build a CHIP-8 Emulator in C++
+To build my own lisp in C
 ## Skillset:
 Java, C/C++, JavaScript, Python.
 ### Database:
