@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To study C++
+To focus on C/C++ 'til Dec. 24, 2023.
 ## Skillset:
 Java, C/C++, JavaScript, Python.
 ### Database:
