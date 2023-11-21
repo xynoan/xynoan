@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To build my own lisp in C
+To study Python
 ## Skillset:
 Java, C/C++, JavaScript, Python.
 ### Database:
