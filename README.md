@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
 To study Python
 ## Skillset:
-Java, C/C++, JavaScript, Python.
+Java, C/C++, Python, JavaScript.
 ### Database:
 MySQL
 ## Tools:
