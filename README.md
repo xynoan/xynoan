@@ -1,7 +1,7 @@
 # Welcome to my profile
 My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
-To study debugging and recursion
+To study debugging, recursion, testing.
 ## Skillset:
 Java, C/C++, Python.
 ### Database:
