@@ -3,7 +3,7 @@ My name is **xynoan**, I'm a Developer, Gamer, Reader, Cinephile.
 ## What is my current objective:
 To study debugging, recursion, testing.
 ## Skillset:
-Java, C/C++, Python.
+Java, C/C++
 ### Database:
 MySQL
 ## Tools:
