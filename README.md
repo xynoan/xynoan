@@ -9,7 +9,10 @@ This is a project from freeCodeCamp. I use it to preview markdowns I write (like
 3. [xyReviewer](https://replit.com/@xynoan/xyReviewer)
 I use this to review whenever exams are coming. It has `xy!review` command that sends you reviewer and `xy!start` will start a mock-quiz.
 4. [xySavings](https://replit.com/@xynoan/xyReviewer)
-Pretty simple. I use this to keep track of my savings.
+Pretty simple. I use this to keep track of my savings.<br><br>
+You can find more of my projects here:
+- [replit](https://replit.com/@xynoan)
+- [codepen](https://codepen.io/Xynoan)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xynoan&theme=dark&layout=compact&langs_count=8&card_width=188)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xynoan&theme=dark&layout=compact&show_icons=true&count_private=true&line_height=24)
