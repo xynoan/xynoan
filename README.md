@@ -1,5 +1,5 @@
 # Hey there 👋
-My name is xynoan. I'm a pragmatic programmer, gamer, reader, cinephile.
+My name is Nathaniel Carlo M. Morva (or xynoan). I'm a pragmatic programmer, gamer, reader, cinephile.
 ## Projects
 Here are some of my personal projects I use on my daily life:
 1. [xyAgenda](https://codepen.io/Xynoan/full/qByNrRY)
