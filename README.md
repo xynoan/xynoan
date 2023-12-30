@@ -1,15 +1,19 @@
 # Hey there 👋
 My name is Nathaniel Carlo M. Morva (or xynoan). I'm a pragmatic programmer, gamer, reader, cinephile.
 ## Projects
-Here are some of my personal projects I use on my daily life:
-1. [xyAgenda](https://codepen.io/Xynoan/full/qByNrRY)
+Here are some of my significant projects:
+### Personal
+- [xyAgenda](https://codepen.io/Xynoan/full/qByNrRY)
 I use this to keep track of my school schedule.
-2. [Markdown Previewer](https://codepen.io/Xynoan/full/QWQGPEv)
+- [Markdown Previewer](https://codepen.io/Xynoan/full/QWQGPEv)
 This is a project from freeCodeCamp. I use it to preview markdowns I write (like this bio)
-3. [xyReviewer](https://replit.com/@xynoan/xyReviewer)
+- [xyReviewer](https://replit.com/@xynoan/xyReviewer)
 I use this to review whenever exams are coming. It has `xy!review` command that sends you reviewer and `xy!start` will start a mock-quiz.
-4. [xySavings](https://replit.com/@xynoan/xyReviewer)
-Pretty simple. I use this to keep track of my savings.<br><br>
+### System (mainly to learn)
+- [Library System](https://github.com/xynoan/Library-System)
+- [Cafe Ordering System](https://github.com/xynoan/Cafe_Ordering_System)
+- [Sentiment Analysis for Product Rating](https://codepen.io/Xynoan/full/VwqmYKZ)
+<br><br>
 You can find more of my projects here:
 - [replit](https://replit.com/@xynoan)
 - [codepen](https://codepen.io/Xynoan)
