@@ -1,5 +1,5 @@
 # College
-August 2022 - Present • 1 yr 4 mos
+August 2022 - Present • 1 yr 7 mos
 <hr> 
 
 ![school logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xgfz5w23trmhp7veqakd)
@@ -20,8 +20,4 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 ### 1st Sem
 I self-studied C/C++
 ### 2nd Sem
-#### Midterms
-...
-#### Finals
-...
-
+I developed QORA.
