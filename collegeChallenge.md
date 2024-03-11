@@ -21,3 +21,8 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 I self-studied C/C++
 ### 2nd Sem
 I developed QORA.
+## 3rd Year
+### 1st Sem
+...
+### 2nd Sem
+I finally upgraded my machine.
