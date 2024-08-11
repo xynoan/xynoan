@@ -12,7 +12,8 @@ I use this to review whenever exams are coming. It has `xy!review` command that 
 I develop systems to learn.
 - [Library System](https://github.com/xynoan/Library-System)
 - [Cafe Ordering System](https://github.com/xynoan/Cafe_Ordering_System)
-- [Sentiment Analysis for Product Rating](https://codepen.io/Xynoan/full/VwqmYKZ)
+- [Online Registration Appointment System](https://github.com/xynoan/QORA)
+- [Online Forums System](https://github.com/xynoan/DisQroom)
 <br><br>
 You can find more of my projects here:
 - [replit](https://replit.com/@xynoan)
