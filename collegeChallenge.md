@@ -1,8 +1,8 @@
 # College
-August 2022 - Present • 2 yrs
+August 2022 - Present • 2 yrs 1 mo
 <hr> 
 
-![school logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xgfz5w23trmhp7veqakd)
+![school logo](https://upload.wikimedia.org/wikipedia/en/1/11/QCU_Logo_2019.png)
 ## Prologue
 Welcome to my college journal. Here, you will see all the stuff I did during college.
 ## 1st Year
@@ -20,10 +20,10 @@ College is starting to get a little too easy for me.. I rely on my own bot (xyRe
 ### 1st Sem
 I self-studied C/C++
 ### 2nd Sem
-I developed QORA, realized I need to work on my CSS skills.
+I developed QORA, realized I need to work on my CSS skills and I got interested in PHP. So, I self-studied CSS and PHP during summer.
 ## 3rd Year
 ### 1st Sem
-...
+I self-studied Rust
 ### 2nd Sem
 ...
 ## 4th Year
