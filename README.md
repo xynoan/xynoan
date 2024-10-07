@@ -7,7 +7,7 @@ For easier, automated, happier life.
 - [xyAgenda](https://codepen.io/Xynoan/full/qByNrRY)
 I use this to keep track of my school schedule.
 - [xyReviewer](https://replit.com/@xynoan/xyReviewer)
-I use this to review whenever exams are coming. It has `xy!review` command that sends you reviewer and `xy!start` will start a mock-quiz.
+I use this to review whenever exams are coming.
 ### System 
 I develop systems to learn.
 - [Library System](https://github.com/xynoan/Library-System)
