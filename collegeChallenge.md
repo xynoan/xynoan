@@ -23,7 +23,7 @@ I self-studied C/C++
 I developed QORA, realized I need to work on my CSS skills and I got interested in PHP. So, I self-studied CSS and PHP during summer.
 ## 3rd Year
 ### 1st Sem
-I self-studied Rust. I was assigned the Head of a department in my organization.
+I was assigned the Head of a department in my organization. I developed QORA 2.0. I did cfw as a programmer in php for my organization.
 ### 2nd Sem
 ...
 ## 4th Year
