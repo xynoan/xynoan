@@ -1,5 +1,5 @@
 # College
-August 2022 - Present • 2 yrs 1 mo
+August 2022 - Present • 3 yrs
 <hr> 
 
 ![school logo](https://upload.wikimedia.org/wikipedia/en/1/11/QCU_Logo_2019.png)
