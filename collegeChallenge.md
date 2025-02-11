@@ -25,7 +25,7 @@ I developed QORA, realized I need to work on my CSS skills and I got interested 
 ### 1st Sem
 I was assigned the Head of a department in my organization. I developed QORA 2.0. I did cfw as a programmer in php for my organization.
 ### 2nd Sem
-...
+We tried using Arduino.
 ## 4th Year
 ### 1st Sem
 ...
