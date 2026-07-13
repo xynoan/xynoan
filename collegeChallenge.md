@@ -1,5 +1,5 @@
 # College
-August 2022 - Present • 3 yrs
+August 2022 - June 2026 • 4 yrs
 <hr> 
 
 ![school logo](https://upload.wikimedia.org/wikipedia/en/1/11/QCU_Logo_2019.png)
@@ -28,8 +28,14 @@ I was assigned the Head of a department in my organization. I developed QORA 2.0
 I developed a mobile app named, "Ocula".
 ## 4th Year
 ### 1st Sem
-...
+I was assigned as Project Manager for our capstone entitled, "ViolationLedger". I did my internship at Kuga Energy as Full Stack Developer.
 ### 2nd Sem
-...
+I took over our capstone project as the programmer.
 ## Epilogue
-...
+It was such as nice journey. But I wish I didn't just focus entirely on college and did other stuff too.
+
+It started slow, and suddenly difficulty becomes high.
+
+It was such as nice stepping stone because for every semester, we developed a program and I was always a programmer.
+
+Internship is such an important part of college. It teaches you things outside of school.
